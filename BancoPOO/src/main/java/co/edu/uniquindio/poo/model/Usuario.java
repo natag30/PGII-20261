@@ -2,6 +2,7 @@ package co.edu.uniquindio.poo.model;
 
 import co.edu.uniquindio.poo.model.CuentasBancarias.Cuenta;
 
+import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -10,11 +11,11 @@ public class Usuario {
     private int id;
     private int telefono;
     private String direccion;
-    private String fechaNacimiento;
+    private LocalDate fechaNacimiento;
 
     private List<Cuenta> listCuentasUsuario;
 
-    public Usuario(String nombre, int id, int telefono, String direccion, String fechaNacimiento) {
+    public Usuario(String nombre, int id, int telefono, String direccion, LocalDate fechaNacimiento) {
         this.nombre = nombre;
         this.id = id;
         this.telefono = telefono;
@@ -56,11 +57,11 @@ public class Usuario {
         this.direccion = direccion;
     }
 
-    public String getFechaNacimiento() {
+    public LocalDate getFechaNacimiento() {
         return fechaNacimiento;
     }
 
-    public void setFechaNacimiento(String fechaNacimiento) {
+    public void setFechaNacimiento(LocalDate fechaNacimiento) {
         this.fechaNacimiento = fechaNacimiento;
     }
 
