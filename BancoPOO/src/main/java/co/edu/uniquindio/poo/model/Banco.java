@@ -1,6 +1,7 @@
 package co.edu.uniquindio.poo.model;
 
 import co.edu.uniquindio.poo.model.CuentasBancarias.Cuenta;
+import co.edu.uniquindio.poo.model.Usuario;
 
 import java.util.ArrayList;
 import java.util.List;
