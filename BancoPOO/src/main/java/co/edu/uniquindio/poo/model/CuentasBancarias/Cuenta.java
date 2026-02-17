@@ -17,6 +17,8 @@ public abstract class Cuenta {
         this.saldo = saldo;
         this.fechaApertura = fechaApertura;
         this.estado = estado;
+
+        titular.agregarCuenta(this);
     }
 
     public abstract void depositar(double cantidad);
@@ -44,7 +46,8 @@ public abstract class Cuenta {
     }
 
     public void mostrarInformacion() {
-        System.out.println("Cuenta: " + numeroCuenta +
+        System.out.println("Tipo: " + this.getClass().getSimpleName() +
+                " | Cuenta: " + numeroCuenta +
                 " | Titular: " + titular.getNombre() +
                 " | Saldo: " + saldo +
                 " | Fecha apertura: " + fechaApertura +

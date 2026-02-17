@@ -3,6 +3,7 @@ package co.edu.uniquindio.poo;
 import co.edu.uniquindio.poo.model.Banco;
 import co.edu.uniquindio.poo.model.CuentasBancarias.CuentaAhorros;
 import co.edu.uniquindio.poo.model.CuentasBancarias.CuentaCorriente;
+import co.edu.uniquindio.poo.model.CuentasBancarias.CuentaNomina;
 import co.edu.uniquindio.poo.model.CuentasBancarias.Estado;
 import co.edu.uniquindio.poo.model.Usuario;
 
@@ -24,11 +25,18 @@ public class Main {
         CuentaCorriente cuentaCorriente = new CuentaCorriente("1478956213", titular, 1000000.0,
                 LocalDate.of(2026, 2, 10), Estado.ACTIVA);
 
+        CuentaNomina cuentaNomina = new CuentaNomina("NOM-003", titular, 250000.0,
+                LocalDate.of(2026, 2, 10), Estado.ACTIVA);
+
+        System.out.println("\n Cuenta de Ahorros \n");
+
         cuentaAhorros.mostrarInformacion();
         cuentaAhorros.retirar(50000.0);
         cuentaAhorros.mostrarInformacion();
         cuentaAhorros.aplicarInteresMensual();
         cuentaAhorros.mostrarInformacion();
+
+        System.out.println("\n Cuenta Corriente \n");
 
         cuentaCorriente.mostrarInformacion();
         cuentaCorriente.retirar(50000.0);
@@ -38,5 +46,20 @@ public class Main {
         cuentaCorriente.aplicarInteresSobregiro();
         cuentaCorriente.mostrarInformacion();
 
+        titular.mostrarCuentas();
+
+        System.out.println("\n Cuenta de Nómina \n");
+
+        cuentaNomina.mostrarInformacion();
+        cuentaNomina.recibirSalario(100000.0);
+        cuentaNomina.mostrarInformacion();
+        cuentaNomina.aplicarComisionMensual();
+        cuentaNomina.mostrarInformacion();
+        cuentaNomina.aplicarComisionMensual();
+        cuentaNomina.mostrarInformacion();
+        cuentaNomina.aplicarComisionMensual();
+        cuentaNomina.mostrarInformacion();
+
+        titular.mostrarCuentas();
     }
 }

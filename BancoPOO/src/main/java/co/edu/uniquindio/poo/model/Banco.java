@@ -19,8 +19,8 @@ public class Banco {
         this.id = id;
         this.direccion = direccion;
         this.telefono = telefono;
-        listUsuarios = new ArrayList<Usuario>();
-        listCuentas = new ArrayList<Cuenta>();
+        listUsuarios = new ArrayList<>();
+        listCuentas = new ArrayList<>();
     }
 
     public String getNombre() {

@@ -81,4 +81,8 @@ public class CuentaCorriente extends Cuenta{
             }
         }
     }
+
+    public double getSobregiroActual() {
+        return sobregiroActual;
+    }
 }

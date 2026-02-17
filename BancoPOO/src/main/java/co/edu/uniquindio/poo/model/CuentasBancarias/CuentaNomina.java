@@ -52,8 +52,6 @@ public class CuentaNomina extends Cuenta{
             System.out.println("La cuenta nómina se convierte en cuenta corriente.");
             CuentaCorriente nuevaCuenta = new CuentaCorriente(getNumeroCuenta(), titular, saldo, LocalDate.now(), Estado.ACTIVA);
             this.cerrar();
-
-            titular.agregarCuenta(nuevaCuenta);
         }
     }
 }
