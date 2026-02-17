@@ -71,4 +71,17 @@ public class Usuario {
     public void setListCuentasUsuario(List<Cuenta> listCuentasUsuario) {
         this.listCuentasUsuario = listCuentasUsuario;
     }
+
+    public void agregarCuenta(Cuenta cuenta) {
+        listCuentasUsuario.add(cuenta);
+        System.out.println("Se agregó la cuenta " + cuenta.getNumeroCuenta() + " al usuario " + nombre);
+    }
+
+    public void mostrarCuentas() {
+        System.out.println("Cuentas bancarias de " + nombre + ":");
+        for (Cuenta cuenta : listCuentasUsuario) {
+            cuenta.mostrarInformacion();
+        }
+    }
+
 }

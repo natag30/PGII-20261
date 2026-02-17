@@ -64,7 +64,7 @@ public abstract class Cuenta {
         return saldo;
     }
 
-    public String getFechaApertura() {
+    public LocalDate getFechaApertura() {
         return fechaApertura;
     }
 

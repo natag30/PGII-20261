@@ -5,9 +5,9 @@ import co.edu.uniquindio.poo.model.Usuario;
 import java.time.LocalDate;
 
 public class CuentaAhorros extends Cuenta{
+
     private static final double SALDO_MINIMO = 100000.0;
     private static final double TASA_INTERES_ANUAL = 0.036;
-
 
     public CuentaAhorros(String numeroCuenta, Usuario titular, double saldo, LocalDate fechaApertura, Estado estado) {
         super(numeroCuenta, titular, saldo, fechaApertura, estado);

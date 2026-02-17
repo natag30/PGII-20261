@@ -5,6 +5,7 @@ import co.edu.uniquindio.poo.model.Usuario;
 import java.time.LocalDate;
 
 public class CuentaCorriente extends Cuenta{
+
     private static final double SOBREGIRO_MAXIMO = 500000.0;
     private static final double COMISION_MENSUAL = 15000.0;
     private static final double TASA_INTERES_SOBREGIRO_MENSUAL = 0.02;
