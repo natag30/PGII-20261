@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="BancoPOO" />
+        <module name="singleton" />
+        <module name="Factory" />
         <module name="Abstract-Factory" />
         <module name="abstract-factory" />
       </profile>
