@@ -9,9 +9,11 @@
         <module name="BancoPOO" />
         <module name="singleton" />
         <module name="Factory" />
-        <module name="Abstract-Factory" />
         <module name="abstract-factory" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Abstract-Factory" target="25" />
+    </bytecodeTargetLevel>
   </component>
 </project>
