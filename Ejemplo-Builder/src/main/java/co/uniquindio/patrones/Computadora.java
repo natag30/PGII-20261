@@ -16,7 +16,10 @@ public class Computadora {
         this.wifi = builder.wifi;
     }
 
+    //Builder clase interna estática
+
     public static class Builder {
+        //Mismos campos que computadora
         private String cpu;
         private int ram = 8;
         private int disco = 256;
