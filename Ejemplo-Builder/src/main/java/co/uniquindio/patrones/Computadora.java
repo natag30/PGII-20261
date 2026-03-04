@@ -57,6 +57,15 @@ public class Computadora {
             return new Computadora(this);
         }
 
-
+        @Override
+        public String toString() {
+            return "Builder{" +
+                    "cpu='" + cpu + '\'' +
+                    ", ram=" + ram +
+                    ", disco=" + disco +
+                    ", gpu='" + gpu + '\'' +
+                    ", wifi=" + wifi +
+                    '}';
+        }
     }
 }

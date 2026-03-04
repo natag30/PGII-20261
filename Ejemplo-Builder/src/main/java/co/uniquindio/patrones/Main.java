@@ -4,7 +4,14 @@ package co.uniquindio.patrones;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     static void main() {
-        Director.gaming().build();
-        Director.oficina().build();
+        Computadora gaming = new Computadora.Builder()
+                .conCPU("Intel i9")
+                .conRAM(64)
+                .conDisco(2000)
+                .conGPU("RTX 4090")
+                .conWifi(true)
+                .build();
+
+        System.out.println(gaming);
     }
 }
