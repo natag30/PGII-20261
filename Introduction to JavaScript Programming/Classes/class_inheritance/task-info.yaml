@@ -1,0 +1,32 @@
+type: edu
+custom_name: Class inheritance
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 263
+        length: 42
+        placeholder_text: // remember to call base class constructor
+        initial_state:
+          length: 42
+          offset: 263
+        initialized_from_dependency: false
+        encrypted_possible_answer: L/oVff3u+x0wMV+CnG4QW6wb/ylHuxIGfKjr4wZZUab6I/2mE6AsOPASmxgZ6DhT3zWZSQa4omoaFsFfC4cbyA==
+        selected: false
+        status: Unchecked
+      - offset: 340
+        length: 23
+        placeholder_text: // return payload value
+        initial_state:
+          length: 23
+          offset: 340
+        initialized_from_dependency: false
+        encrypted_possible_answer: KsvBdqlUbxs/0Q2jwPALnIN7jI2uDZjwjdQ3pNexjU4=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,32 @@
+type: edu
+custom_name: Introduction to classes
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 45
+        length: 39
+        placeholder_text: // save coordinates into the attributes
+        initial_state:
+          length: 39
+          offset: 45
+        initialized_from_dependency: false
+        encrypted_possible_answer: m08n7hZRfk8iJKSy5woAeR8m0YyKHEOSuRHYHAzt/5g=
+        selected: false
+        status: Unchecked
+      - offset: 127
+        length: 32
+        placeholder_text: // return distance to the origin
+        initial_state:
+          length: 32
+          offset: 127
+        initialized_from_dependency: false
+        encrypted_possible_answer: StM4ESOMLXH6Zv5EGUW/irfRJEVYDj4qB/dlxfLf1QnozCRxi8VX0Ndp+VPvd7/Enb2MAGIpPA4CPtp/hfmB9w==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

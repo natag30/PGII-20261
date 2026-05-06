@@ -1,0 +1,22 @@
+type: edu
+custom_name: Promise chaining
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 210
+        length: 48
+        placeholder_text: // Calculate the sum and return it as the result
+        initial_state:
+          length: 48
+          offset: 210
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7qCzYtItjwZKYx2sVvMO6mBb0ZnRZcJvuLGs50EPrORGM/DofHEq14Fgr4nYlJUqf5z1bqjcyWzPLCtxcbTk8BCANk+lKBKWY+H3cRy7iTOpdxA7emZJf+RAdHNefv1h
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

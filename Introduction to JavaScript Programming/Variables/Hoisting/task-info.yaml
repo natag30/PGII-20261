@@ -1,0 +1,39 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 8
+        length: 178
+        placeholder_text: |-
+          func();
+          console.log("[global] a:", a);
+          
+          function func() {
+              let b;
+              console.log("[func] a:", a);
+              console.log("[func] b:", b);
+              b = 20;
+          }
+          b = 20;
+          
+          let a = 10;
+          
+          let b;
+        initial_state:
+          length: 177
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: W/g60tFUt7U/Hb+/Hx+8Qg26QCmH8M6K1UMHytJZCDZfBOvcwuwYSE0wHaWxBBc/zTe/S9oaV0knasiAAanBt22WZfjBbfd5ApTk7wIV0q/aYrWXejdKlpeY9VrP/bNfzoeTamqTo9Sf/5OH0FLYHsc8MFxN6M7oTuURWdeJW5Wn8ZTLwy+Cu9oE8p350DJzRlUP2sSVKwQxaYpElOpXwnQ+CUFj8JWxNiPVC2EXjG8=
+        selected: false
+        status: Solved
+        is_visible: false
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 17 Apr 2026 04:36:26 UTC"
+record: -1

@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 85
+        length: 54
+        placeholder_text: // Replace the fifth element from the end with "black"
+        initial_state:
+          length: 54
+          offset: 85
+        initialized_from_dependency: false
+        encrypted_possible_answer: 5FMouUUlyfVRxhIjgNOZUaeehGlv/4WRItfcQU0lr8BqL/5zq4kYwI103iZw9UKa
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

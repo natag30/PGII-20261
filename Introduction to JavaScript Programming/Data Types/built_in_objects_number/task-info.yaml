@@ -1,0 +1,42 @@
+type: edu
+custom_name: "Built-in Objects: Number"
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 65
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 65
+        initialized_from_dependency: false
+        encrypted_possible_answer: 40JzBXtnCG5VoWG+lVMG6w==
+        selected: false
+        status: Unchecked
+      - offset: 179
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 179
+        initialized_from_dependency: false
+        encrypted_possible_answer: 0EuqP+E4Sgr9oz86oPTAPopq1eukgHPUQyOxMpM6xTE=
+        selected: false
+        status: Unchecked
+      - offset: 340
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 340
+        initialized_from_dependency: false
+        encrypted_possible_answer: LvTX/KD0CZdNs2G8X9Z5hA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 46
+        length: 29
+        placeholder_text: // calculate the discriminant
+        initial_state:
+          length: 29
+          offset: 46
+        initialized_from_dependency: false
+        encrypted_possible_answer: bMGxgbP1dYpOIqPItT9o02hWw6J6oPF84EX6NQYX0d8=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

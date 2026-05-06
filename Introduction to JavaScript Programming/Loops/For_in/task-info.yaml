@@ -1,0 +1,43 @@
+type: edu
+custom_name: For..in
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 22
+        length: 25
+        placeholder_text: /* add parameters here */
+        initial_state:
+          length: 25
+          offset: 22
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4J6IzniT2xwozxPR68u4zg==
+        selected: false
+        status: Unchecked
+      - offset: 123
+        length: 67
+        placeholder_text: // use a for..in loop to iterate over the keys of the medals
+          object
+        initial_state:
+          length: 67
+          offset: 123
+        initialized_from_dependency: false
+        encrypted_possible_answer: u3dFNe27NBOeBcCczyN+tIkKUtCNntvab+RRo1xXYHNSHvMT+O/MUCsJDqEez1J4vbBDyO5Lj6P3kK4DHG+GVVrESkRIbnZXgHIBNlb53J+hc8rXUT2qAZ6okurJWS73/pnqoGwc+mmEneWnjFnw1w==
+        selected: false
+        status: Unchecked
+      - offset: 196
+        length: 36
+        placeholder_text: // don't forget to return the result
+        initial_state:
+          length: 36
+          offset: 196
+        initialized_from_dependency: false
+        encrypted_possible_answer: tyivELM3CFSNCcgI7RJfDw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

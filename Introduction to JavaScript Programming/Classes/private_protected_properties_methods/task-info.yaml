@@ -1,0 +1,32 @@
+type: edu
+custom_name: Private and protected properties and methods
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 147
+        length: 43
+        placeholder_text: // add implementation with range check here
+        initial_state:
+          length: 43
+          offset: 147
+        initialized_from_dependency: false
+        encrypted_possible_answer: SWSWmeWrvOZCjOKt2qI6ZDarWxLkl3IIk8wP9tB9GBHhefP15EY+7f4RGyR/gq+y5sZrdFgBbmf4nN8rcofqLxvBsfrxFX9kBCbGSfAv21wR+A5GcvquwDGhdtsipKof
+        selected: false
+        status: Unchecked
+      - offset: 223
+        length: 26
+        placeholder_text: // add implementation here
+        initial_state:
+          length: 26
+          offset: 223
+        initialized_from_dependency: false
+        encrypted_possible_answer: bpkB4JloYrlA0ly7srocFFKH4JEFuGjxCJwvT8VWq6A=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

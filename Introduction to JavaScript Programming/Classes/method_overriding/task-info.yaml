@@ -1,0 +1,32 @@
+type: edu
+custom_name: Method overriding
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 245
+        length: 28
+        placeholder_text: // implement the constructor
+        initial_state:
+          length: 28
+          offset: 245
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9wk8xdXbbPM8WL12NFrTNMPuz0b60czfoQz+OItgLDP/G+ix8NhIUNjS9nZHYBE3
+        selected: false
+        status: Unchecked
+      - offset: 285
+        length: 45
+        placeholder_text: // overriding the distanceFromOrigin() method
+        initial_state:
+          length: 45
+          offset: 285
+        initialized_from_dependency: false
+        encrypted_possible_answer: ozY71dgpiPllVFpUoHnMV1N2dBp8xb9nv30pEOVsadQtBaXgtw3vhp/Umr6D89A2oMMLxkYPntUh5GJ6DFrY8fAO++gQCfHo2YSVE6FE1gckNGJ3dTxnEH2YX2ZmmRhwqv6S5vPOUq7tNnAsJdTzDg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

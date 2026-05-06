@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 46
+        length: 51
+        placeholder_text: // Apply `transform` to each element of the `array`
+        initial_state:
+          length: 51
+          offset: 46
+        initialized_from_dependency: false
+        encrypted_possible_answer: VcfEpjhMzacM5g0Up+f+luQjJjOqTYEl76rXXTsZCopi8DADq4UgZWOsX6qgjX4eNJob+hZWVK5YvHtfZDNateGyRogstK5AiSgyBjQQjq4J1HpToNgomZridJL/IxHH
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

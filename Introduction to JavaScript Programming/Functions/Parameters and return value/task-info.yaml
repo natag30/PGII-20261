@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 58
+        length: 27
+        placeholder_text: // check the triangle sides
+        initial_state:
+          length: 27
+          offset: 58
+        initialized_from_dependency: false
+        encrypted_possible_answer: vxOjexgZt6baPYzyD8x1yVUWwOqQuAhKPX2m/ViOslDkifoEKJOOBkN6jAtP98YqX7gVMwVkGkeOXvwK+fH8ThNPlqdfvszM+fvgw1e7Ro1tlWLqIFJcUpemyLCHjx6uPVt/liqGK4JDRUZfXazUlf0WjG/Tb+IGWRD9HuhiODM=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

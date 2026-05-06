@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 229
+        length: 31
+        placeholder_text: // Replace element 999 with 777
+        initial_state:
+          length: 31
+          offset: 229
+        initialized_from_dependency: false
+        encrypted_possible_answer: hKjrT9UuJjUM7OAuBitigSrq2P996RjT8PjNSYVMrfWlZxjQKxCwh97mADUhY+U9RgVGjFl1VuTrxgwVssfxsCxUD/vrtIQ9jfU+1wJnvbc=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,42 @@
+type: edu
+custom_name: "Built-in Objects: Date"
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 51
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 51
+        initialized_from_dependency: false
+        encrypted_possible_answer: pRJAJwd1A7z0UlREGt/NXA==
+        selected: false
+        status: Unchecked
+      - offset: 188
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 188
+        initialized_from_dependency: false
+        encrypted_possible_answer: HFizhqUJQtbKfVYsW6J8GXmQHdOspKS2ilj1vpMLN6A=
+        selected: false
+        status: Unchecked
+      - offset: 318
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 318
+        initialized_from_dependency: false
+        encrypted_possible_answer: VNu+/Z4TczKNpHZKmDiKMlH1ebLARm+gA+NZRSa4TP8=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

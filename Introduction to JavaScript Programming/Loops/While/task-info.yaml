@@ -1,0 +1,41 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 32
+        length: 26
+        placeholder_text: /* add a condition here */
+        initial_state:
+          length: 26
+          offset: 32
+        initialized_from_dependency: false
+        encrypted_possible_answer: vv/iRodzDOzvtGFamLdl5Q==
+        selected: false
+        status: Unchecked
+      - offset: 70
+        length: 36
+        placeholder_text: // implement the Euclidean algorithm
+        initial_state:
+          length: 36
+          offset: 70
+        initialized_from_dependency: false
+        encrypted_possible_answer: upr4gGeApHpFHtFqVAGIzAXK6GPskFyCoUB1/eLHD9uEIyKmzMcud+WNdUKz24XtcYHo9Nn0HB0f0UtdgHWHbIBNkx6b3KqOJ42QiipHtrfxgiTXqJhILOr3E/lgmZeu
+        selected: false
+        status: Unchecked
+      - offset: 117
+        length: 20
+        placeholder_text: // return the result
+        initial_state:
+          length: 20
+          offset: 117
+        initialized_from_dependency: false
+        encrypted_possible_answer: VpC4KNsTU87QsvxX5ha+mA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

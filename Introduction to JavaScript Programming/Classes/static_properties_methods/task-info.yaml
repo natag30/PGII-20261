@@ -1,0 +1,22 @@
+type: edu
+custom_name: Static properties and methods
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 18
+        length: 27
+        placeholder_text: // add static property here
+        initial_state:
+          length: 27
+          offset: 18
+        initialized_from_dependency: false
+        encrypted_possible_answer: xugqiv1JnjM8JfyZ13D+zuch74fgUOFE9pLVHgs8JzSqk80iP7ZgdBhhXWekpYwl
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

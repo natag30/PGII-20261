@@ -1,0 +1,31 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 12
+        length: 16
+        placeholder_text: // declare a Set
+        initial_state:
+          length: 16
+          offset: 12
+        initialized_from_dependency: false
+        encrypted_possible_answer: XhCU1Jh8dhZzJ7CJvu35mg==
+        selected: false
+        status: Unchecked
+      - offset: 29
+        length: 33
+        placeholder_text: // Add elements "Ron" and "Harry"
+        initial_state:
+          length: 33
+          offset: 29
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4nDcJ5AZoQuJ8rb9+K8QkXR0WzKz79iSgfxh0A4qroCeUh7r31O5fGJoZA+elccy
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

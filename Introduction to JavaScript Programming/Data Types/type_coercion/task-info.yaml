@@ -1,0 +1,22 @@
+type: edu
+custom_name: Type Coercion
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 58
+        length: 27
+        placeholder_text: a + b; // fix this addition
+        initial_state:
+          length: 27
+          offset: 58
+        initialized_from_dependency: false
+        encrypted_possible_answer: /UwpAltu9Ouptulwi9+ORKD+AUC59bbvym5vCgOFwKw=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

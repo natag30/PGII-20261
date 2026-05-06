@@ -1,0 +1,22 @@
+type: edu
+custom_name: Prototypal inheritance
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 183
+        length: 25
+        placeholder_text: /* solve the task here */
+        initial_state:
+          length: 25
+          offset: 183
+        initialized_from_dependency: false
+        encrypted_possible_answer: NZTcfsX8J4RrPePGQtiwWzgVXQUlYIslq8T06Fdava0zkFvNccStyruWOcge5hmmQFtlKYoAuDJ8GhRdL6rjqg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,36 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 5
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 5
+        initialized_from_dependency: false
+        encrypted_possible_answer: cmXzI5TY4phGGhkKIjFmLQ==
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 32
+        length: 0
+        placeholder_text: b = 123;
+        initial_state:
+          length: 8
+          offset: 23
+        initialized_from_dependency: false
+        encrypted_possible_answer: ft3/KDXagmI+TWDbl9vbuw==
+        selected: false
+        status: Solved
+        is_visible: false
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 17 Apr 2026 02:36:14 UTC"
+record: -1

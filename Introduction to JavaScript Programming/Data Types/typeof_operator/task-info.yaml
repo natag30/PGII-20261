@@ -1,0 +1,42 @@
+type: edu
+custom_name: typeof Operator
+files:
+  - name: test/test.js
+    visible: false
+    learner_created: false
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 223
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 223
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8+eRx2GIxcJvV0fa5oyX4w==
+        selected: false
+        status: Unchecked
+      - offset: 311
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 311
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8+eRx2GIxcJvV0fa5oyX4w==
+        selected: false
+        status: Unchecked
+      - offset: 389
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 389
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8+eRx2GIxcJvV0fa5oyX4w==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

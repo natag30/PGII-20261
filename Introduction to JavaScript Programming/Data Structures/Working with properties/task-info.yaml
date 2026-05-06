@@ -1,0 +1,43 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 74
+        length: 64
+        placeholder_text: // Add a "price" property to the car object with a value of
+          9250
+        initial_state:
+          length: 64
+          offset: 74
+        initialized_from_dependency: false
+        encrypted_possible_answer: R1I24Pww2GCq8w/eJu7LRJDHJhw81oTaJkE5P1QKn9U=
+        selected: false
+        status: Unchecked
+      - offset: 139
+        length: 68
+        placeholder_text: // Add a "currency" property to the car object with a value
+          of "USD"
+        initial_state:
+          length: 68
+          offset: 139
+        initialized_from_dependency: false
+        encrypted_possible_answer: EsP0Bm61d9AuYMQNEq7FlBbrZDwkc8eMpcrl7UXIXJc=
+        selected: false
+        status: Unchecked
+      - offset: 208
+        length: 50
+        placeholder_text: // Delete the "owner" property from the car object
+        initial_state:
+          length: 50
+          offset: 208
+        initialized_from_dependency: false
+        encrypted_possible_answer: 42eI2owXKG32iEFG6Bi2wybgAHGGxLRlq4uI8jnVAwQ=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

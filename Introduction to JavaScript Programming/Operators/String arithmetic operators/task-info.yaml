@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 112
+        length: 49
+        placeholder_text: // Use the plus operator for string concatenation
+        initial_state:
+          length: 49
+          offset: 112
+        initialized_from_dependency: false
+        encrypted_possible_answer: A9gDcsLNtnJU6JsrfA9ioPfentsSuYnaZwVyk78Vgc93+1Evz9P5LYVGICakaOVFW+5o4P5RB5YZRpEAcxgXjZh8RriwbrV7Z9L21qj2HBWX25/wRIfzHhuiFnyHSH1G
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,31 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 236
+        length: 40
+        placeholder_text: // Remove the pair with the key "Tomato"
+        initial_state:
+          length: 40
+          offset: 236
+        initialized_from_dependency: false
+        encrypted_possible_answer: CP8uxqmNmmtMTVcI6TCChH+xIlExCW/T0s9RvODcYic=
+        selected: false
+        status: Unchecked
+      - offset: 277
+        length: 55
+        placeholder_text: // Add a new pair with the key "Pomelo" and weight 1.45
+        initial_state:
+          length: 55
+          offset: 277
+        initialized_from_dependency: false
+        encrypted_possible_answer: 83fnVfRp0U6KWTmhJ4i/pVRc/ihxe3DfNdivGiGAOL0VL2TxZr7BqhEKzvyMM4wF
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

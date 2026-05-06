@@ -1,0 +1,23 @@
+type: edu
+custom_name: Copying complex objects
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 42
+        length: 81
+        placeholder_text: "orders.push(Object.assign({}, tShirt));  // fix it using structuredClone\
+      \ function"
+        initial_state:
+          length: 81
+          offset: 42
+        initialized_from_dependency: false
+        encrypted_possible_answer: RSwtu5WM986dH4C/WJnv/WJw9QnuJn0mfLXIAoOVSUzgiN+mEUejIt2/dYEi0vyD
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

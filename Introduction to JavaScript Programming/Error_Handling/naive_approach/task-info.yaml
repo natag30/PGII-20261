@@ -1,0 +1,22 @@
+type: edu
+custom_name: Naive approach
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 31
+        length: 54
+        placeholder_text: // Check `person` for "name" and "surname" attributes.
+        initial_state:
+          length: 54
+          offset: 31
+        initialized_from_dependency: false
+        encrypted_possible_answer: 29Da7H0eC7GEirEpeLQcbEMDGoG9N8iQ84JNdvN1QpkpT9TAzl/9N7ib23Divb2BMsbEdqaT4wL2vA3LxEz2aQVvGIuXjskU52hXtyHkvowGvXO82kX4D7iirKtazHRU
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

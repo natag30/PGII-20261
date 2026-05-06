@@ -1,0 +1,32 @@
+type: edu
+custom_name: instanceof operator
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 556
+        length: 24
+        placeholder_text: // implement method here
+        initial_state:
+          length: 24
+          offset: 556
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3yXgpNpz7wIQRNFSJXExIbRtMJfX+TqJ6lipqHY3Irex4GQQM46Mc1hN1s8Y8KoFYLQ0T5s/DX0B7i57pGag2w==
+        selected: false
+        status: Unchecked
+      - offset: 636
+        length: 48
+        placeholder_text: // implement function with instanceof check here
+        initial_state:
+          length: 48
+          offset: 636
+        initialized_from_dependency: false
+        encrypted_possible_answer: kLonuwS09v/ehd58tBHMBd/tVnYYwWl5LEoOi1NASSllT+gAJExpH+dHti3+qA0XC7Okt2tlaHgKlrVBMZc6lm5//XPdFDdbAO+Qo3SpOS5hGsZLxvkqjqHIzRvskoVI
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

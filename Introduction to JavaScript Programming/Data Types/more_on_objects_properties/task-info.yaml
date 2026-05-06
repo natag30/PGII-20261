@@ -1,0 +1,23 @@
+type: edu
+custom_name: Data Property and Accessor Property
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 125
+        length: 74
+        placeholder_text: "/* Complete the property to return \"Title by Author, published\
+      \ in Year\" */"
+        initial_state:
+          length: 74
+          offset: 125
+        initialized_from_dependency: false
+        encrypted_possible_answer: +QMWCHIX2wN3tIldlmoWAFfA+fm2U25hX2xNqWeMtQcZ+etE5g8KCyhfuJo/TS/sodh+dhkxWS3HqbqTVMddQWyUb72upVifTIZp8o0BZSnwdklTdYUmRC8a3ODwRMDOpR3lvFJKbbz/5MP0ADVOrw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

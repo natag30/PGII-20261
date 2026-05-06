@@ -1,0 +1,27 @@
+type: marketplace
+title: Introduction to JavaScript Programming
+language: English
+summary: "<p>Ready to speak the language of the web? Learn JavaScript with clear,\
+  \ bite-sized lessons in a beginner-friendly IDE. No overload—just real-world skills,\
+  \ smart practice, and smooth progress.</p>"
+programming_language: JavaScript
+content:
+  - Introduction
+  - Variables
+  - Data Types
+  - Data Structures
+  - Operators
+  - Conditional Statements
+  - Functions
+  - Loops
+  - Objects_Advanced_patterns
+  - Classes
+  - Error_Handling
+  - Asynchronous
+  - Feedback survey
+additional_files:
+  - name: package.json
+  - name: utils/utils.js
+mode: Study
+feedback_link: https://plugins.jetbrains.com/plugin/26697-introduction-to-javascript-programming/reviews
+yaml_version: 5

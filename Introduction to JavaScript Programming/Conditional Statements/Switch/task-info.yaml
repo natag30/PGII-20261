@@ -1,0 +1,31 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 65
+        length: 35
+        placeholder_text: // handle Saturday and Sunday cases
+        initial_state:
+          length: 35
+          offset: 65
+        initialized_from_dependency: false
+        encrypted_possible_answer: FUzXV82WehgaxMCXmIzIcJvYepTWghNvYnzZMtKJ6oCE0mhO+1ToF74ggfnAuRQT2RwxAFg2ONoS/bC4PvTy9g==
+        selected: false
+        status: Unchecked
+      - offset: 129
+        length: 48
+        placeholder_text: // update isWeekend with the corresponding value
+        initial_state:
+          length: 48
+          offset: 129
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7w5R5Jc0Q4fhGMtpf4hf2ExNp8AZTibTONDlSLoz/xA=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

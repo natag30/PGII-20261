@@ -1,0 +1,31 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 9
+        length: 28
+        placeholder_text: /* put function name here */
+        initial_state:
+          length: 28
+          offset: 9
+        initialized_from_dependency: false
+        encrypted_possible_answer: pfEhkrg8q6/EdsbNIQpSFQ==
+        selected: false
+        status: Unchecked
+      - offset: 46
+        length: 20
+        placeholder_text: // add function body
+        initial_state:
+          length: 20
+          offset: 46
+        initialized_from_dependency: false
+        encrypted_possible_answer: yg/yBUTMi1qU03V36CkNumvfhniiacd9Tg+8xTIQWMT00i2AgtofCK4hQ/j4UMreELJIYeSvRqL+RRYlJBaLow==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

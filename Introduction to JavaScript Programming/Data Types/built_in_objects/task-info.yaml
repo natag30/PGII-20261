@@ -1,0 +1,42 @@
+type: edu
+custom_name: "Built-in Objects: String"
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 94
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 94
+        initialized_from_dependency: false
+        encrypted_possible_answer: AfcgEi5uUfGB0bK5TKVLpg==
+        selected: false
+        status: Unchecked
+      - offset: 194
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 194
+        initialized_from_dependency: false
+        encrypted_possible_answer: TGMHtx9Gl+Qt/QNQAvbhnYvzNxeweC7I4ExJYd/zgFc=
+        selected: false
+        status: Unchecked
+      - offset: 310
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 310
+        initialized_from_dependency: false
+        encrypted_possible_answer: 45Liv1d74Bq/NgvTO3iFvoYigNFBJwTl4FDorS9ohWM=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

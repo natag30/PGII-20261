@@ -1,0 +1,41 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 84
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 84
+        initialized_from_dependency: false
+        encrypted_possible_answer: yH+5nXNBM/Ear+rcq1NixA==
+        selected: false
+        status: Unchecked
+      - offset: 101
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 101
+        initialized_from_dependency: false
+        encrypted_possible_answer: fCSqf9qbmj8b+nfIYfiuQg==
+        selected: false
+        status: Unchecked
+      - offset: 112
+        length: 3
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 112
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8H1MCk2SdPPp0ZNJUIcSaw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

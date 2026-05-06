@@ -1,0 +1,31 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 444
+        length: 41
+        placeholder_text: // Add "brown" to the end of colors array
+        initial_state:
+          length: 41
+          offset: 444
+        initialized_from_dependency: false
+        encrypted_possible_answer: l5cLpyncy65CtZ6poVjLkNg54UO3xFG7TPugjnHYtWc=
+        selected: false
+        status: Unchecked
+      - offset: 486
+        length: 41
+        placeholder_text: // Add "black" to the end of colors array
+        initial_state:
+          length: 41
+          offset: 486
+        initialized_from_dependency: false
+        encrypted_possible_answer: qtBjX2/Bw513Y+vswqkKUuoZ6B5+HX1UMztB3XBlX7k=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

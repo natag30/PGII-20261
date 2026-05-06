@@ -1,0 +1,42 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 38
+        length: 23
+        placeholder_text: // initialize with zero
+        initial_state:
+          length: 23
+          offset: 38
+        initialized_from_dependency: false
+        encrypted_possible_answer: KYnoFcCMOzz27VT5MmHVpw==
+        selected: false
+        status: Unchecked
+      - offset: 67
+        length: 77
+        placeholder_text: // add the value of each array element to the sum variable using
+          a `for` loop
+        initial_state:
+          length: 77
+          offset: 67
+        initialized_from_dependency: false
+        encrypted_possible_answer: mMsw1Qj9O/vnKYGX2/7LszapGOqVJliBvDAcKhbNYfNLj6Wi514RV7utIBhgkJ7eOUkj45WMaI3rijH+R6T24LgNKYbWyKfPo+Gk8imoVck=
+        selected: false
+        status: Unchecked
+      - offset: 150
+        length: 36
+        placeholder_text: // don't forget to return the result
+        initial_state:
+          length: 36
+          offset: 150
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4x1kbh/DqtQ6Ypmn98G1Xg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

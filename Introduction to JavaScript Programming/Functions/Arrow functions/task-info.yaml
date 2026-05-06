@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 16
+        length: 22
+        placeholder_text: // write an expression
+        initial_state:
+          length: 22
+          offset: 16
+        initialized_from_dependency: false
+        encrypted_possible_answer: O6Oidu0tRNTXB9IXKmIguw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

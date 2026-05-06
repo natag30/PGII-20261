@@ -1,0 +1,42 @@
+type: edu
+custom_name: Objects Introduction
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 16
+        length: 56
+        placeholder_text: /* Add manufacturer property and assign a value to it */
+        initial_state:
+          length: 56
+          offset: 16
+        initialized_from_dependency: false
+        encrypted_possible_answer: ErZCIPQy4VAm2b8htw09hrMxu5Y4U/m3T4DTdty8Moo=
+        selected: false
+        status: Unchecked
+      - offset: 77
+        length: 49
+        placeholder_text: /* Add model property and assign a value to it */
+        initial_state:
+          length: 49
+          offset: 77
+        initialized_from_dependency: false
+        encrypted_possible_answer: MSfJW8vkCRQa0+dGVfzT3DEEdAUH6Iky5pyTkGp6Vn0=
+        selected: false
+        status: Unchecked
+      - offset: 131
+        length: 48
+        placeholder_text: /* Add year property and assign a value to it */
+        initial_state:
+          length: 48
+          offset: 131
+        initialized_from_dependency: false
+        encrypted_possible_answer: +Y/ltOmYn21lYyTveilRRg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

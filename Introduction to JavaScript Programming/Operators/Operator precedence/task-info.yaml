@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 13
+        length: 19
+        placeholder_text: 9 * 8 + 12 / 4 + 2;
+        initial_state:
+          length: 19
+          offset: 13
+        initialized_from_dependency: false
+        encrypted_possible_answer: GDDFuHVCfP/hNhJO5vw8ElvvXsHQDO9HhYlZPJQ+bVQ=
+        selected: false
+        status: Unchecked
+        is_visible: false
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

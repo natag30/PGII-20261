@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Database files
+*.db
+*.db-shm
+*.db-wal
+
+# OS / IDE files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,31 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 127
+        length: 34
+        placeholder_text: /* check the temperature format */
+        initial_state:
+          length: 34
+          offset: 127
+        initialized_from_dependency: false
+        encrypted_possible_answer: SlLbovKeGeLYEg4BpdTWyQ==
+        selected: false
+        status: Unchecked
+      - offset: 218
+        length: 33
+        placeholder_text: // generate string for Fahrenheit
+        initial_state:
+          length: 33
+          offset: 218
+        initialized_from_dependency: false
+        encrypted_possible_answer: QV6NBBTZshjy0PTUlnjZbGKknJvwmrXCJbO9MUpAUtPm2vcBBnoL0UQZFyZxr8c/GDdqBboygpY3E9kbweKRq2aFdWme5AIe5RAeiczaO8M=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

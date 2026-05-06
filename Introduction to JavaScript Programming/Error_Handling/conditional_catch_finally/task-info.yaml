@@ -1,0 +1,23 @@
+type: edu
+custom_name: Conditional catch and finally blocks
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 121
+        length: 76
+        placeholder_text: // Handle RangeError and TypeError differently using the instanceof
+          operator
+        initial_state:
+          length: 76
+          offset: 121
+        initialized_from_dependency: false
+        encrypted_possible_answer: QSHxi3S48bmtwUFamvEL8zBprvVhlngv+yN/xHhyIRN/lLE/yFBUCxtgwcmxsMhhLz6a1FiKPKhA06bhZl//uRUCSbr7frDFvPj7a6CfJw3NL1nTLBR5uTKnIVIG4wC6Eq8nA77jWyhOAfr5/u1qE2Vp3ZyjMLHzOshM6vRrgdix1yFFcwrvosohjXd8pA1XB13iJ+rIko12ZFqL5ibye3TMiUyQDE+LhB9pN8v1niiCAk1gCZTwzpDrrvBlgSTjGvQaGMomdnLlm82DD0fY7hhfv4WZr8cGFKKlfkTPo1D0x0hF8yqkkRIyo5CdDjvj
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

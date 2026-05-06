@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 73
+        length: 22
+        placeholder_text: // Solve the task here
+        initial_state:
+          length: 22
+          offset: 73
+        initialized_from_dependency: false
+        encrypted_possible_answer: mgaDKEbZBXGCrilhJyT6tpO2WRzDZ6ObSkBsQmP2ARWksxNp8FvTS9JzGrUmpceDXqjyBDxdqrLBLNK6jyUy8KqBw46RJTwDrjjRI7K6VTEq0wEhOGi3IBauEC1fs5Fk
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

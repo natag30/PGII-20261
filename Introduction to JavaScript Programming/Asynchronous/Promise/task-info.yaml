@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 80
+        length: 37
+        placeholder_text: // Implement a `name` validation here
+        initial_state:
+          length: 37
+          offset: 80
+        initialized_from_dependency: false
+        encrypted_possible_answer: fcQAwgl87mg6VHAAwCgkD8f29ZfSRaxtItrna0tR5iNv+dFrAPviqFF3H/xYcOlA/5YBsU/F2k1P07WoD3Nv6Q==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

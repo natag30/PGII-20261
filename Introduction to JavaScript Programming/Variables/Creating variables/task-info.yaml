@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 93
+        length: 33
+        placeholder_text: // Make change here
+        initial_state:
+          length: 19
+          offset: 93
+        initialized_from_dependency: false
+        encrypted_possible_answer: FeegQ51xb2EEe6faFZeWwg==
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 14 Apr 2026 20:55:42 UTC"
+record: -1
